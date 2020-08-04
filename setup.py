@@ -23,6 +23,7 @@ setuptools.setup(
         'beautifulsoup4',
         'pandas',
         'requests',
+        'lxml',
     ],
     entry_points='''
         [console_scripts]
